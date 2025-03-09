@@ -1,0 +1,1 @@
+# plugify-plugin-dotnet-template
